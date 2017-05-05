@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://basic.gocen.cn:8060/static/csgaoshengtong.ipa</string>
+					<string>http://static.gocen.cn:9999/csgaoshengtong.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://basic.gocen.cn:8060/static/icon.png</string>
+					<string>http://static.gocen.cn:9999/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://basic.gocen.cn:8060/static/icon@2x.png</string>
+					<string>http://static.gocen.cn:9999/icon@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
