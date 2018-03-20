@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.QYNo2.gaoshengtong</string>
+				<string>com.doukui.dk</string>
 				<key>bundle-version</key>
-				<string>3.1.0</string>
+				<string>3.2.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
